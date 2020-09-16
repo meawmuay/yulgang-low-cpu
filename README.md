@@ -13,6 +13,7 @@
 1. เข้าไปที่ โฟลเดอร์ที่เราติดตั้งเกม เช่น C:\Playpark
 2. คัดลอกข้อมลของ Yulgang ไปไว้ที่อื่น หรือจะไว้ที่เดียวกันก็ได้ ก็จะได้แบบนี้ โดยโฟลเดอร์ด้านล่างคือตัวเกมอีกตัวที่เราคัดลอกมาและถูกเปลี่ยนชื่อเป็น Yulgang - 20fps (ใช้เวลาซักพักกว่าจะคัดลอกเสร็จ)\
    ![](https://i.imgur.com/50Yj8IK.png)
+   
 3. โหลด [GEFORCE EXPERIENCE คลิก](https://www.nvidia.com/en-us/geforce/geforce-experience/download/)
 4. ติดตั้งให้เรียบร้อย
 5. เปิดโปรแกรม\
@@ -39,7 +40,7 @@
 16. เลือกที่ Tab Program Settings แล้วเลือก Add\
     ![](https://i.imgur.com/PWu7nWm.png)
 
-17. คลิกที่ Browse... แล้วเลือกไฟล์ YGOnline.exe ที่อยู่ใน Playpark\Yulgang - 20fps\client\ (ใน Yulgang โฟลเดอร์ใหม่ที่เรา Copy มา)
+17. คลิกที่ Browse... แล้วเลือกไฟล์ YGOnline.exe ที่อยู่ใน Playpark\Yulgang - 20fps\client\ (ใน Yulgang โฟลเดอร์ใหม่ที่เรา Copy มา)\
     ![](https://i.imgur.com/3XXwylP.png)
 
     ![](https://i.imgur.com/4lIbAPr.png)
@@ -54,11 +55,11 @@
 19. โดยการตั้งค่าตรงนี้จะสำคัญมาก คุณสามารถเลือกตั้งค่าได้โดยค่าที่เหมาะสมคือ 20-30 แนะนำ 20 เพื่อให้ CPU ต่ำที่สุด (ลองทดสอบด้วยตัวเอง ต้องออกเกมทุกครั้งที่ตั้งค่านี้)\
     ![](https://i.imgur.com/RcH8mgV.png)
 
-20. หลังจากนั้นกดที่ปุ่ม Apply ด้านล่างขวา
+20. หลังจากนั้นกดที่ปุ่ม Apply ด้านล่างขวา\
     ![](https://i.imgur.com/Uc0c1Ka.png)
 
 21. หลังจากนั้นตอนเข้าเกมให้คุณเข้าเกมจากไฟล์ launcher.exe ใน โฟลเดอร์ Yulgang - 20fps แทน
-22. คุณสามารถทำให้เข้าเกมง่าย ๆ ผ่านหน้าจอด้วยวิธีนี้ คลิกขวาที่ไฟล์ launcher.exe เลือก Send to แล้วเลือก Desktop (create shortcut)
+22. คุณสามารถทำให้เข้าเกมง่าย ๆ ผ่านหน้าจอด้วยวิธีนี้ คลิกขวาที่ไฟล์ launcher.exe เลือก Send to แล้วเลือก Desktop (create shortcut)\
     ![](https://i.imgur.com/qrmKzfe.png)
 23. สำคัญมาก หากคุณตั้งไว้ 20 fps คุณจะรู้สึกกระตุกนิ๊ด ๆ หรืออาจจะมากในความรู้สึกของคุณ หากไม่พอใจเราแนะนำ 30 fps ขึ้นไป แต่ตัวเกมจะใช้งาน CPU เพิ่มขึ้น
 ## License
